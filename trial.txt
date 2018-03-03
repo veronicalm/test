@@ -44,6 +44,16 @@ da
 sfdafa
 
 
+<<<<<<< HEAD
 'jearfhu;hfea
 aehfr;aueghg
 aethfu;hua;ehu.
+=======
+
+
+
+
+fhe;alehfa;fheaf;ueaf;aff;
+
+afdahf;eahf;uafheu
+>>>>>>> origin/master
